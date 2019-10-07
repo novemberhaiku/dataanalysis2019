@@ -1,2 +1,5 @@
-CREATE TABLE "Islamic Countries" (
+CREATE TABLE "Islamic Countries (
+id INTEGER,
+country TEXT,
+religious services 
 )
