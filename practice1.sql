@@ -6,7 +6,7 @@ prayer,
 importance democracy,
 second democracy,
 goodness democracy,
-personal agency INTEGER
+personal agency INTEGER,
 type TEXT
 );
 
